@@ -143,7 +143,7 @@ git checkout command-pwd
 ## 15. git merge
 
 Combines changes from one branch into another.
-
+Useful for integrating completed work into the main branch.
 Example:
 
 ```bash
