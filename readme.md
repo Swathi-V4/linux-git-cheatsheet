@@ -73,7 +73,7 @@ clear
 ## 8. rm
 
 Removes a file.
-
+Useful for deleting files you no longer need.
 Example:
 
 ```bash
