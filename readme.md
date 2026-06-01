@@ -63,7 +63,7 @@ cat readme.md
 ## 7. clear
 
 Clears the terminal screen.
-
+Useful for removing clutter from the terminal window.
 Example:
 
 ```bash
