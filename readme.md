@@ -43,7 +43,7 @@ mkdir project
 ## 5. touch
 
 Creates a new empty file.
-
+Can create a file if it does not already exist.
 Example:
 
 ```bash
