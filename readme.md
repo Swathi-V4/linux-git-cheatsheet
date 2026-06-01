@@ -23,7 +23,7 @@ ls
 ## 3. cd
 
 Changes directories.
-
+Useful for navigating between folders in the file system.
 Example:
 
 ```bash
