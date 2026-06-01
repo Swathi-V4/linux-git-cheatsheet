@@ -33,7 +33,7 @@ cd Documents
 ## 4. mkdir
 
 Creates a new folder.
-
+Creates directories for organizing files.
 Example:
 
 ```bash
