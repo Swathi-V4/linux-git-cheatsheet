@@ -53,7 +53,7 @@ touch readme.md
 ## 6. cat
 
 Displays the contents of a file.
-
+Often used to quickly view text files in the terminal.
 Example:
 
 ```bash
