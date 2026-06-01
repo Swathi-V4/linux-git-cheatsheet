@@ -3,7 +3,7 @@
 ## 1. pwd
 
 Shows the current directory you are in.
-
+Useful for confirming your current location in the file system.
 Example:
 
 ```bash
