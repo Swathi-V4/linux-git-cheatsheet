@@ -13,7 +13,7 @@ pwd
 ## 2. ls
 
 Lists files and folders in the current directory.
-
+Can be combined with options such as -l and -a.
 Example:
 
 ```bash
