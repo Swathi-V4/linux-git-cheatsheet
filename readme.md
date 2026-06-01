@@ -133,7 +133,7 @@ git branch command-pwd
 ## 14. git checkout
 
 Switches between branches.
-
+Useful for moving between different versions of your project.
 Example:
 
 ```bash
