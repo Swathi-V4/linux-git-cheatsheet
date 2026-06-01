@@ -123,7 +123,7 @@ git commit -m "Add command explanation"
 ## 13. git branch
 
 Lists, creates, or manages branches.
-
+Useful for organizing work into separate development branches.
 Example:
 
 ```bash
