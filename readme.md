@@ -103,7 +103,7 @@ git status
 ## 11. git add
 
 Stages files so they can be committed.
-
+Useful for preparing files to be committed.
 Example:
 
 ```bash
