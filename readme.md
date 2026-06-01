@@ -93,7 +93,7 @@ git init
 ## 10. git status
 
 Shows the current status of the repository.
-
+Useful for checking modified, staged, and untracked files.
 Example:
 
 ```bash
