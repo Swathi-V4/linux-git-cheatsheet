@@ -113,7 +113,7 @@ git add readme.md
 ## 12. git commit
 
 Saves a snapshot of staged changes.
-
+Useful for creating a snapshot of your project history.
 Example:
 
 ```bash
