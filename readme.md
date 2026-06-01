@@ -83,7 +83,7 @@ rm oldfile.txt
 ## 9. git init
 
 Creates a new Git repository in the current folder.
-
+Useful for starting version control in a project.
 Example:
 
 ```bash
